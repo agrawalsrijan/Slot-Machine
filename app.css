@@ -1,0 +1,15 @@
+.Machine{
+	border: 2px solid #6FE7AA;
+	width: 60%;
+	background:#6FE7AA;
+	margin:10px auto;
+	text-align: center;
+}
+/*if wins this style will be applied*/
+.win{
+	color:green;
+}
+/*if loses this style will be applied*/
+.lose{
+	color:red;
+}
